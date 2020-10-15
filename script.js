@@ -23,3 +23,4 @@
 
 'use strict';
 
+let vc;
